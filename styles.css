@@ -1,0 +1,37 @@
+* {
+	font-family: Roboto Slab;
+}
+
+img {
+	cursor: pointer;
+	height: 130px;
+}
+
+header {
+	display: flex;
+	font-size: 30px;
+	justify-content: center;
+	margin: 80px 0;
+}
+
+main {
+	display: flex;
+	/*justify-content: start;*/
+}
+
+section {
+	margin: 0 33px;
+	width: 33%;
+}
+
+.div-img {
+	text-align: center;
+}
+
+.insert {
+	border: black double 6px;
+	border-radius: 10px;
+	margin-top: 60px;
+  padding: 5px 21px;
+	width: 90%;
+}
